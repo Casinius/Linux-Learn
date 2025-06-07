@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux权限管理/用户组.md",
+                "file": "Linux容器技术/Linux容器是什么.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "用户组"
+              "title": "Linux容器是什么"
             }
           }
         ]
@@ -182,14 +182,15 @@
   },
   "active": "63ab8603e21d9268",
   "lastOpenFiles": [
+    "Linux_Virt-Manager/VT.jpg",
+    "Linux容器技术/Linux容器是什么.md",
+    "Linux_Virt-Manager/LXC/LXC是什么.md",
+    "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
     "Linux_Virt-Manager/Linux QEMU虚拟机的原理架构图.md",
     "Linux权限管理/用户组.md",
     "Linux权限管理",
     "Linux容器技术",
-    "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
-    "Linux_Virt-Manager/LXC/LXC是什么.md",
     "Linux_Virt-Manager/LXC",
-    "Linux_Virt-Manager/VT.jpg",
     "Linux_Virt-Manager/virt-manager配置.md",
     "欢迎.md",
     "Linux_Virt-Manager/Screenshot_2025-05-31_20-14-16.png",
