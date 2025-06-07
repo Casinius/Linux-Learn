@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6433ee3f58a97603",
+        "id": "fe292c46562cf45f",
         "type": "tabs",
         "children": [
           {
-            "id": "63ab8603e21d9268",
+            "id": "32915f2dc425b02b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux容器技术/Linux容器是什么.md",
+                "file": "Linux容器技术/Distrobox管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux容器是什么"
-            }
-          },
-          {
-            "id": "2b36049b283d3d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux容器技术/Linux容器是什么.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux容器是什么"
+              "title": "Distrobox管理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,20 +180,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b36049b283d3d3a",
+  "active": "32915f2dc425b02b",
   "lastOpenFiles": [
-    "Linux容器技术/Drawing 2025-06-07 21.38.35.excalidraw.svg",
-    "Excalidraw/Drawing 2025-06-07 21.38.35.excalidraw.md",
+    "Linux容器技术/Docker管理.md",
+    "Linux容器技术/Distrobox管理.md",
+    "Linux容器技术/Podman管理.md",
     "Linux容器技术/Linux容器是什么.md",
+    "Excalidraw/Drawing 2025-06-07 21.38.35.excalidraw.md",
+    "Linux容器技术/Drawing 2025-06-07 21.38.35.excalidraw.svg",
     "Excalidraw",
     "Linux_Virt-Manager/VT.jpg",
-    "Linux_Virt-Manager/LXC/LXC是什么.md",
+    "Linux容器技术/LXC/LXC是什么.md",
     "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
     "Linux_Virt-Manager/Linux QEMU虚拟机的原理架构图.md",
     "Linux权限管理/用户组.md",
     "Linux权限管理",
     "Linux容器技术",
-    "Linux_Virt-Manager/LXC",
+    "Linux容器技术/LXC",
     "Linux_Virt-Manager/virt-manager配置.md",
     "欢迎.md",
     "Linux_Virt-Manager/Screenshot_2025-05-31_20-14-16.png",
