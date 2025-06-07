@@ -4,6 +4,8 @@ Distrobox是Podman和Docker的前端，提供一条命令启动，自动挂载�
 ## 查看容器信息
 distrobox list
 ## 创建容器
-distrobox-create 
--n 或者 --name 名字
--i 或者 --image 选择镜像来源
+
+| 命令               | 参数 作用           | 参数2 作用2                    |
+| ---------------- | --------------- | -------------------------- |
+| distrobox-create | -n 或者 --name 名字 | -i 或者 --image 选择镜像来源       |
+| 格式               | 直接输入名字，不用引号     | <docker镜像站地址>/<镜像名字>:<版本v> |
