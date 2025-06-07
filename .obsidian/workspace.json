@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux权限管理/用户管理基础.md",
+                "file": "Linux容器技术/Distrobox管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "用户管理基础"
+              "title": "Distrobox管理"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4604b9568fcd6032",
@@ -183,18 +182,18 @@
   },
   "active": "32915f2dc425b02b",
   "lastOpenFiles": [
-    "Linux容器技术/Distrobox管理.md",
-    "Linux权限管理/用户管理基础.md",
-    "Linux容器技术/LXC/LXC是什么.md",
-    "Linux容器技术/Docker管理.md",
-    "Linux容器技术/Podman管理.md",
     "Linux容器技术/Linux容器是什么.md",
-    "Excalidraw/Drawing 2025-06-07 21.38.35.excalidraw.md",
     "Linux容器技术/Drawing 2025-06-07 21.38.35.excalidraw.svg",
+    "Linux_Virt-Manager/Linux QEMU虚拟机的原理架构图.md",
+    "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
+    "Linux容器技术/Podman管理.md",
+    "Linux容器技术/Docker管理.md",
+    "Linux权限管理/用户管理基础.md",
+    "Linux容器技术/Distrobox管理.md",
+    "Linux容器技术/LXC/LXC是什么.md",
+    "Excalidraw/Drawing 2025-06-07 21.38.35.excalidraw.md",
     "Excalidraw",
     "Linux_Virt-Manager/VT.jpg",
-    "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
-    "Linux_Virt-Manager/Linux QEMU虚拟机的原理架构图.md",
     "Linux权限管理",
     "Linux容器技术",
     "Linux容器技术/LXC",
