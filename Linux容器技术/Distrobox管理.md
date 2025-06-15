@@ -3,6 +3,10 @@ Distrobox是Podman和Docker的前端，提供一条命令启动，自动挂载�
 管理非常方便
 ## 查看容器信息
 distrobox list
+
+## Podman代理设置
+export HTTP=<代理地址> \                                                                       #‘注释（不要复制注释，shell没有注释）\ 是先后执行   &&是同时执行
+export HTTPS=<代理地址>
 ## 创建容器
 
 | 命令               | 参数 作用           | 参数2 作用2                    |
