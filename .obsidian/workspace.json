@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基本原理/操作系统基本原理/内核.md",
+                "file": "计算机基本原理/计算机硬件原理/硬件接口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内核"
+              "title": "硬件接口"
             },
             "group": "43f168d468126284"
           }
@@ -36,13 +36,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基本原理/操作系统基本原理/内核.md",
+                "file": "计算机基本原理/计算机硬件原理/硬件接口.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "内核 的大纲"
+              "title": "硬件接口 的大纲"
             },
             "group": "43f168d468126284"
           }
@@ -205,14 +205,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "112c6598639785b6",
+  "active": "32915f2dc425b02b",
   "lastOpenFiles": [
-    "计算机基本原理/操作系统基本原理/操作系统介绍/Linux系统.md",
-    "Linux权限管理/用户管理基础.md",
-    "计算机基本原理/计算机硬件原理/硬件接口.md",
+    "计算机基本原理/计算机硬件原理/7c1ed21b0ef41bd55ea203d555da81cb39db3d1a.jpg",
     "计算机基本原理/计算机硬件原理/v2-cbdf8d90862a4ceb729b65b939eb890b_1440w.png",
     "计算机基本原理/计算机硬件原理/818e9dfb797f6692977347c29ccae0da.png",
+    "计算机基本原理/操作系统基本原理/操作系统介绍/Linux系统.md",
     "计算机基本原理/操作系统基本原理/内核.md",
+    "Linux权限管理/用户管理基础.md",
+    "计算机基本原理/计算机硬件原理/硬件接口.md",
     "计算机基本原理/操作系统基本原理/操作系统介绍",
     "计算机基本原理/计算机硬件原理/BIOS芯片.md",
     "计算机基本原理/计算机硬件原理",
