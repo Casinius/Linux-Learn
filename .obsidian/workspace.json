@@ -4,31 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "fe292c46562cf45f",
-        "type": "tabs",
-        "dimension": 70.6896551724138,
-        "children": [
-          {
-            "id": "32915f2dc425b02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机基本原理/计算机硬件原理/硬件接口.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "硬件接口"
-            },
-            "group": "43f168d468126284"
-          }
-        ]
-      },
-      {
         "id": "d68a942d5b597b81",
         "type": "tabs",
-        "dimension": 29.310344827586203,
         "children": [
           {
             "id": "973ea2387ad7eb37",
@@ -36,17 +13,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基本原理/计算机硬件原理/硬件接口.md",
+                "file": "Linux容器技术/Linux容器是什么.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "硬件接口 的大纲"
-            },
-            "group": "43f168d468126284"
+              "title": "Linux容器是什么 的大纲"
+            }
+          },
+          {
+            "id": "e0fdd01ce1415f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux容器技术/Linux容器是什么.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux容器是什么"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +196,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32915f2dc425b02b",
+  "active": "e0fdd01ce1415f41",
   "lastOpenFiles": [
-    "计算机基本原理/计算机硬件原理/BIOS芯片.md",
+    "Linux容器技术/Podman管理.md",
+    "Excalidraw/Drawing 2025-06-07 21.38.35.excalidraw.md",
+    "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
+    "Linux_Virt-Manager/virt-manager配置.md",
+    "Linux_Virt-Manager/Screenshot_2025-05-31_20-14-16.png",
+    "Linux_Virt-Manager/Linux QEMU虚拟机的原理架构图.md",
+    "Linux_Virt-Manager/VT.jpg",
+    "计算机基本原理/操作系统基本原理/内核驱动.md",
     "计算机基本原理/计算机硬件原理/硬件接口.md",
+    "计算机基本原理/计算机硬件原理/BIOS芯片.md",
     "计算机基本原理/计算机硬件原理/7c1ed21b0ef41bd55ea203d555da81cb39db3d1a.jpg",
     "计算机基本原理/计算机硬件原理/v2-cbdf8d90862a4ceb729b65b939eb890b_1440w.png",
     "计算机基本原理/计算机硬件原理/818e9dfb797f6692977347c29ccae0da.png",
@@ -220,25 +219,18 @@
     "计算机基本原理/未命名.md",
     "OIP-C.webp",
     "计算机基本原理/计算机硬件原理/OIP-C.webp",
-    "Linux容器技术/Podman管理.md",
     "计算机基本原理/操作系统基本原理",
     "计算机基本原理",
     "Linux容器技术/Linux容器是什么.md",
     "Linux容器技术/Distrobox管理.md",
     "Linux容器技术/Drawing 2025-06-07 21.38.35.excalidraw.svg",
-    "Linux_Virt-Manager/Linux QEMU虚拟机的原理架构图.md",
-    "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
     "Linux容器技术/Docker管理.md",
     "Linux容器技术/LXC/LXC是什么.md",
-    "Excalidraw/Drawing 2025-06-07 21.38.35.excalidraw.md",
     "Excalidraw",
-    "Linux_Virt-Manager/VT.jpg",
     "Linux权限管理",
     "Linux容器技术",
     "Linux容器技术/LXC",
-    "Linux_Virt-Manager/virt-manager配置.md",
     "欢迎.md",
-    "Linux_Virt-Manager/Screenshot_2025-05-31_20-14-16.png",
     "Linux_Virt-Manager/Screenshot from 2025-05-30 21-50-31.png",
     "Linux_Virt-Manager/Screenshot from 2025-05-30 21-50-05.png",
     "Linux_Virt-Manager"
