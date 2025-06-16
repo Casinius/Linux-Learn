@@ -13,13 +13,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux容器技术/Linux容器是什么.md",
+                "file": "Linux权限管理/用户管理基础.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux容器是什么 的大纲"
+              "title": "用户管理基础 的大纲"
             }
           },
           {
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux容器技术/Linux容器是什么.md",
+                "file": "Linux权限管理/用户管理基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux容器是什么"
+              "title": "用户管理基础"
             }
           }
         ],
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 614.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +198,7 @@
   },
   "active": "e0fdd01ce1415f41",
   "lastOpenFiles": [
+    "Linux容器技术/Linux容器是什么.md",
     "Linux容器技术/Podman管理.md",
     "Excalidraw/Drawing 2025-06-07 21.38.35.excalidraw.md",
     "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
@@ -221,7 +222,6 @@
     "计算机基本原理/计算机硬件原理/OIP-C.webp",
     "计算机基本原理/操作系统基本原理",
     "计算机基本原理",
-    "Linux容器技术/Linux容器是什么.md",
     "Linux容器技术/Distrobox管理.md",
     "Linux容器技术/Drawing 2025-06-07 21.38.35.excalidraw.svg",
     "Linux容器技术/Docker管理.md",
