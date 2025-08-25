@@ -16,4 +16,4 @@ podman ps
 podman pod create 
 无参数下没有实际作用，创建一个空的容器而已，主要是用于后期Compose（基于某个镜像自定义设置和组件）
 ## 运行+创建一体
-podman run <-d 后台挂着> <-it 可互动> <--name 名字> 镜像名字 <shell 比如bash>
+podman run <-d 后台挂着> <-it 可互动> <--name 名字> 镜像名字 <shell 就是控制台比如bash或者zsh或者fish>
