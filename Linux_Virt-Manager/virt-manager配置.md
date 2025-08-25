@@ -24,6 +24,9 @@ Unable to connect to libvirt qemu:///system.
 Verify that an appropriate libvirt daemon is running.
 一般就是libvirtd服务没有自动启动，去安装篇找一下服务启动命令即可
 ### 创建虚拟机
+
+#### 使用真实硬盘
+
 ![](Screenshot%20from%202025-05-30%2021-49-21.png)
 
 一般来说，如果你已经有一个安装了linux的盘，那么就选这个
@@ -43,3 +46,8 @@ Verify that an appropriate libvirt daemon is running.
 这里点finish也许会为你启动NAT，如果没有启动，在控制台输入
 sudo virsh net-start default
 即可
+
+
+#### 使用虚拟硬盘
+![](Screenshot%20from%202025-05-30%2021-49-21.png)
+在这一步选择“Local install media (ISO image or CDROM)"然后选择自己要使用的安装镜像即可

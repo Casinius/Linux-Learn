@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d68a942d5b597b81",
+        "id": "8f5e2e003fce1e46",
         "type": "tabs",
         "children": [
           {
-            "id": "973ea2387ad7eb37",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Linux权限管理/用户管理基础.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "用户管理基础 的大纲"
-            }
-          },
-          {
-            "id": "e0fdd01ce1415f41",
+            "id": "e8b2a9e2543e6dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux权限管理/用户管理基础.md",
+                "file": "Linux容器技术/Podman管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "用户管理基础"
+              "title": "Podman管理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Virt-Manager/Linux QEMU虚拟机的原理架构图.md",
+                "file": "Linux_Virt-Manager/virt-manager配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux QEMU虚拟机的原理架构图 的大纲"
+              "title": "Outline of virt-manager配置"
             }
           },
           {
@@ -182,39 +166,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 913.5
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0fdd01ce1415f41",
+  "active": "e8b2a9e2543e6dbf",
   "lastOpenFiles": [
-    "Linux容器技术/Linux容器是什么.md",
+    "Linux容器技术/Distrobox管理.md",
     "Linux容器技术/Podman管理.md",
-    "Excalidraw/Drawing 2025-06-07 21.38.35.excalidraw.md",
-    "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
-    "Linux_Virt-Manager/virt-manager配置.md",
-    "Linux_Virt-Manager/Screenshot_2025-05-31_20-14-16.png",
-    "Linux_Virt-Manager/Linux QEMU虚拟机的原理架构图.md",
+    "Linux容器技术/Untitled.md",
+    "Linux容器技术/LXC/LXC是什么.md",
     "Linux_Virt-Manager/VT.jpg",
-    "计算机基本原理/操作系统基本原理/内核驱动.md",
+    "Linux_Virt-Manager/Linux虚拟机管理界面之安装.md",
+    "Linux_Virt-Manager/Linux QEMU虚拟机的原理架构图.md",
     "计算机基本原理/计算机硬件原理/硬件接口.md",
     "计算机基本原理/计算机硬件原理/BIOS芯片.md",
+    "计算机基本原理/操作系统基本原理/操作系统介绍/Linux系统.md",
+    "Linux权限管理/用户管理基础.md",
+    "Linux_Virt-Manager/virt-manager配置.md",
+    "Linux_Virt-Manager/Screenshot from 2025-05-30 21-49-21.png",
+    "Linux容器技术/Docker管理.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Linux容器技术/Linux容器是什么.md",
+    "Excalidraw/Drawing 2025-06-07 21.38.35.excalidraw.md",
+    "Linux_Virt-Manager/Screenshot_2025-05-31_20-14-16.png",
+    "计算机基本原理/操作系统基本原理/内核驱动.md",
     "计算机基本原理/计算机硬件原理/7c1ed21b0ef41bd55ea203d555da81cb39db3d1a.jpg",
     "计算机基本原理/计算机硬件原理/v2-cbdf8d90862a4ceb729b65b939eb890b_1440w.png",
     "计算机基本原理/计算机硬件原理/818e9dfb797f6692977347c29ccae0da.png",
-    "计算机基本原理/操作系统基本原理/操作系统介绍/Linux系统.md",
     "计算机基本原理/操作系统基本原理/内核.md",
-    "Linux权限管理/用户管理基础.md",
     "计算机基本原理/操作系统基本原理/操作系统介绍",
     "计算机基本原理/计算机硬件原理",
     "计算机基本原理/未命名.md",
@@ -222,17 +217,11 @@
     "计算机基本原理/计算机硬件原理/OIP-C.webp",
     "计算机基本原理/操作系统基本原理",
     "计算机基本原理",
-    "Linux容器技术/Distrobox管理.md",
     "Linux容器技术/Drawing 2025-06-07 21.38.35.excalidraw.svg",
-    "Linux容器技术/Docker管理.md",
-    "Linux容器技术/LXC/LXC是什么.md",
     "Excalidraw",
     "Linux权限管理",
     "Linux容器技术",
-    "Linux容器技术/LXC",
     "欢迎.md",
-    "Linux_Virt-Manager/Screenshot from 2025-05-30 21-50-31.png",
-    "Linux_Virt-Manager/Screenshot from 2025-05-30 21-50-05.png",
-    "Linux_Virt-Manager"
+    "Linux_Virt-Manager/Screenshot from 2025-05-30 21-50-31.png"
   ]
 }
