@@ -13,12 +13,12 @@ podman的容器本身被叫做pod
 docker的大部分的命令podman都可以兼容，所以无需担心
 ## 拉取镜像
 
-podman pull <镜像地址>
+- podman pull <镜像地址>
 
 ## 查看正在运行的镜像
-podman ps
+- podman ps
 ## 创建
-podman pod create 
+- podman pod create 
 无参数下没有实际作用，创建一个空的容器而已，主要是用于后期Compose（基于某个镜像自定义设置和组件）
 
 如果你喜欢分步的话
@@ -26,13 +26,14 @@ podman pod create
 那先create完
 然后podman pod list看名字
 然后
-podman commit <pod名字> <镜像名字>
+- podman commit <pod名字> <镜像名字>
 ## 运行+创建一体
-podman run <-d 后台挂着> <-it 可互动> <--name 名字> 镜像名字 <shell 就是控制台比如bash或者zsh或者fish>
+- podman run <-d 后台挂着> <-it 可互动> <--name 名字> 镜像名字 <shell 就是控制台比如bash或者zsh或者fish>
 ## 停止
-podman stop <pod名字>
+- podman stop <pod名字>
 ## 删除
-podman rm <pod名字>
+
+- podman rm <pod名字>
 
 ## 挂载神秘储存设备
-创建pod的时候加--volume
+- 创建pod的时候加--volume
