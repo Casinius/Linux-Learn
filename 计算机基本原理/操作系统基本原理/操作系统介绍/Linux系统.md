@@ -11,7 +11,7 @@ Linux内核是Linux系统的核心，并且Linux非常模块化
 大多数软件都依赖C运行库，甚至Rust标准库也是，这是计算机行业长期发展的结果（Windows也有自己实现的C运行时，2019年之前是msvcrt，2019年之后叫ucrtbase）
 而C标准虽然只有一个
 但是实现有很多
-最有名的包括Glibc和MuslC（也叫ulibc），Windows则已经介绍过了
+最有名的包括Glibc和MuslC，Windows则已经介绍过了
 而前者glibc是大多数Linux原生软件动态依赖的运行时
 依赖MuslC的软件很少，但是也有上千个，AlpineLinux和VoidLinux的Musl版本就是使用muslc作为其运行时
 
