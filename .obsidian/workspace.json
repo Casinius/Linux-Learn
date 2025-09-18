@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基本原理/操作系统基本原理/操作系统介绍/Linux系统.md",
+                "file": "Linux容器技术/Distrobox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux系统"
+              "title": "Distrobox"
             }
           }
         ]
@@ -95,12 +95,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基本原理/操作系统基本原理/操作系统介绍/Linux系统.md",
+                "file": "Linux容器技术/Distrobox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Linux系统 的出链列表"
+              "title": "Distrobox 的出链列表"
             }
           }
         ]
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8b2a9e2543e6dbf",
+  "active": "112c6598639785b6",
   "lastOpenFiles": [
-    "计算机基本原理/操作系统基本原理/内核.md",
+    "Linux容器技术/Distrobox管理.md",
+    "Linux容器技术/Distrobox.md",
     "计算机基本原理/操作系统基本原理/内核驱动.md",
+    "计算机基本原理/操作系统基本原理/内核.md",
     "计算机基本原理/操作系统基本原理/操作系统介绍/Linux系统.md",
     "Linux容器技术/Linux容器是什么.md",
     "Linux容器技术/Podman管理.md",
@@ -200,7 +202,6 @@
     "typst/Linux权限管理/用户管理基础.md",
     "Linux权限管理/用户管理基础.md",
     "typst/Linux容器/Drawing 2025-06-07 21.38.35.excalidraw.svg",
-    "Linux容器技术/Distrobox管理.md",
     "Linux容器技术/LXC/LXC是什么.md",
     "Linux容器技术/Docker管理.md",
     "Linux容器技术/Drawing 2025-06-07 21.38.35.excalidraw.svg",
