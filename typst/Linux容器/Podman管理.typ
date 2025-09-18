@@ -9,24 +9,32 @@ podman文档：#link("https://docs.podman.org.cn/en/latest/markdown/podman.1.htm
     Distrobox不支持的小众平台？
   ]
 ]
+
+
 您也许会遇到类似Miips riscv等小众架构，而恰好他们使用uboot而且没有UEFI，恰好他们的版本很旧，恰好他们的RootFs不是Gentoo
 并且，如果按照live安装的Devuan而不是通过Pepermint安装或者Devuan安装镜像安装，则用非Root容器很大可能会出现映射失败
+
+
 #centerize[
   #H3[
     提示
   ]
 ]
+
+
 用Root账户和普通账户运行Podman的结果是不同的，通常有些容器是Systemd作为init，有时候在非Systemd发行版上面会缺乏映射表，要不自己补全映射表，要不用Root账户运行，值得注意的是Root账户有一定风险
 
 有些发行版本的根目录不是share mount有时候也会引发一些问题
 
 Podman的容器本身被叫做pod
 
+
 #centerize[
   #H3[
     Podman和Docker兼容性
   ]
 ]
+
 docker的大部分的命令podman都可以兼容，所以无需担心
 
 #centerize[
@@ -45,8 +53,7 @@ docker的大部分的命令podman都可以兼容，所以无需担心
       "podman pull", "<镜像地址>", "拉取镜像本地缓存",
 
       "podman ps", "", "查看正在运行的镜像
-    -a 则是查看全部容器
-    ",
+    -a 则是查看全部容器",
 
 
 
